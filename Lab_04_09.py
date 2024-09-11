@@ -51,6 +51,7 @@ print(count)
 S_modi=S.replace("Ba","Ta")
 print(S_modi)
 
+
 # Question 3 
 
 '''
